@@ -1,0 +1,422 @@
+english,japanese,mistakes
+Teacher (Mentor),せんせい,0
+Teacher (Instructor),きょうし,0
+Student,がくせい,0
+Employee,しゃいん,0
+Company,かいしゃ,0
+Bank,ぎんこう,0
+Bank Employee,ぎんこういん,0
+Company Employee,かいしゃいん,0
+Doctor,いしゃ,0
+Researcher,けんきゅうしゃ,0
+University,だいがく,0
+Hospital,びょういん,0
+Yes (formal),はい,0
+No (formal),いいえ,0
+House,いえ,0
+Book,ほん,0
+Dictionary,じしょ,0
+Magazine,ざっし,0
+Newspaper,しんぶん,0
+Notebook,ノート,0
+Business Card,めいし,0
+Credit Card,カード,0
+Pen,ペン,0
+Pencil,えんぴつ,0
+Mechanical Pencil,シャープペンシル,0
+Key,かぎ,0
+"Watch, Clock",とけい,0
+Umberlla,かさ,0
+Bag,かばん,0
+Television,テレビ,0
+Radio,ラジオ,0
+Camera,カメラ,0
+Computer,コンピューター,0
+Car,くるま,0
+Desk,つくえ,0
+Chair,いす,0
+Chocolate,チョコレート,0
+Coffee,コーヒー,0
+Present (Souvenir),おみやげ,0
+English,えいご,0
+Japanese,にほんご,0
+Arabic,アラビアゴ,0
+Classroom,きょうしつ,0
+Dinning Hall (Canteen),しょくどう,0
+Office,じむしょ,0
+Meeting,かいぎ,0
+Meeting room,かいぎしつ,0
+Reception Desk,うけつけ,0
+Lobby,ロビー,0
+Room,へや,0
+Toilet,（お）てあらい,0
+Toilet (Katakana),トイレ,0
+Stairs,かいだん,0
+Elevator,エレベーター,0
+Escalator,エスカレーター,0
+Vending Machine,じどうはんばいき,0
+Telephone,でんわ,0
+Country,くに,0
+Home,うち,0
+Shoes,くつ,0
+Neck-tie,ネクタイ,0
+Wine,ワイン,0
+Section in Depaato,うりば,0
+Basement,ちか,0
+Yen,えん,0
+Department Store,デパート,0
+Post Office,ゆうびんきょく,0
+Library,としょかん,0
+Art Museum,びじゅつかん,0
+"Rest, Holiday",やすみ,0
+Lunchbreak,ひるやすみ,0
+Test,しけん,0
+"Film, movie",えいが,0
+School,がっこう,0
+Supermarket,スーパー,0
+Station,えき,0
+Aeroplane,ひこうき,0
+Ship,ふね,0
+Electric train,でんしゃ,0
+Subway,ちかてつ,0
+Shinkansen,しんかんせん,0
+Local train,ふつう,0
+Rapid train,きゅうこう,0
+Express train,とっきゅう,0
+Bus,バス,0
+Taxi,タクシー,0
+Bicycle,じてんしゃ,0
+On foot,あるいて,0
+Person,ひと,0
+Friend,ともだち,0
+Boyfriend,かれし,0
+Girlfriend,かのじょ,0
+Family,かぞく,0
+Alone (by oneself),ひとりで,0
+Birthday,たんじょうび,0
+Birthdate,せいねんがっぴ,0
+"Meal, Cooked rice",ごはん,0
+Breakfast,あさごはん,0
+Lunch,ひるごはん,0
+Supper,ばんごはん,0
+Bread,ぱん,0
+Egg,たまご,0
+Meat,にく,0
+Beef Meat,ぎゅうにく,0
+Chicken Meat,とりにく,0
+Fish,さかな,0
+Veggetables,やさい,0
+Fruits,くだもの,0
+Water,みず,0
+Tea,おちゃ,0
+Black tea,こうちゃ,0
+Milk,ぎゅうにゅう,0
+Juice,ジュース,0
+Beer,ビール,0
+Japanese Alcohol,おさけ,0
+Letter,てがみ,0
+Report,レポート,0
+Photo,しゃしん,0
+Video (Tape or Machine),ビデオ,0
+"Shop, Store",みせ,0
+Garden,にわ,0
+Yes (informal),ええ,0
+Chopsticks,はし,0
+Spoon,スプーン,0
+Kinfe,ナイフ,0
+Fork,フォーク,0
+Scissors,はちみ,0
+Personal Computer,パソコン,0
+Mobile Phone,ケータイ,0
+Email,メール,0
+New Year's greeting card,ねんがじょう,0
+Punch or File Hole Punch,パンチ,0
+Stapler,ホッチキス,0
+Adhesive Sello tape,セロテープ,0
+Eraser,けしゴム,0
+Paper,かみ,0
+Flower,はな,0
+Shirt,シャツ,0
+"Present, OR Gift",プレゼント,0
+"Luggage, baggage",にもつ,0
+Money,（お）かね,0
+Ticket,きっぷ,0
+Christmas,クリスマス,0
+Cherry Blossom,さくら,0
+Mountain,やま,0
+Town,まち,0
+Food,たべもの,0
+Place,ところ,0
+Dormitory (سكن جماعي),りょお,0
+Restaurant,レストラン,0
+Life,せいかつ,0
+"Work, OR Business",（お）しごと,0
+Drinks,のみもの,0
+Cooked food,りょうり,0
+Sport,スポーツ,0
+Baseball,やきゅう,0
+Dance,ダンス,0
+"Trip, OR Travel",りょこう,0
+Music,おんがく,0
+Song,うた,0
+Classical music,クラシック,0
+Jazz,ジャズ,0
+Concert,コンサート,0
+Karaoke,カラオケ,0
+Jap. tranditional music,かぶき,0
+"Picutre, OR Drawing",え,0
+Letter,じ,0
+Chinese letter,かんじ,0
+Small Change (money),こまかい　おかね,0
+Ticket,チケット,0
+Time,じかん,0
+Something to do OR Task,ようじ,0
+Appointtment,やくそく,0
+Side Job,アルバイト,0
+Child,こども,0
+Dinning place (in Uni.),しょくどう,0
+Shopping cart,おかい　じどうしゃ,0
+Man,おとこのひと,0
+Woman,おんなのひと,0
+Boy,おとこのこ,0
+Girl,おんなのこ,0
+Dog,いぬ,0
+Cat,ねこ,0
+Panda,パンダ,0
+Elephant,ぞう,0
+"Tree, OR Wood",き,0
+Thing (ملموس),もの,0
+Battery,でんち,0
+Box,はこ,0
+Switch,スイッチ,0
+Refrigerator,れいぞうこ,0
+Table,テーブル,0
+Bed,ベッド,0
+Shelf,たな,0
+Door,ドア,0
+Window,まど,0
+"Postbox, Mailbox",ポスト,0
+Building,ビル,0
+Convenience store (kiosk),コンビニ,0
+Park,こうえん,0
+Café,きっさてん,0
+… shop,や,0
+Bus/Taxi stop,のりば,0
+مقاطعة أو محافظة,けん,0
+Film,フィルム,0
+Apple,りんご,0
+Mandarin Orange,みかん,0
+Sandwich,サンドイッチ,0
+Curry (with rice),カレー（ライス）,0
+Ice cream,アイスクリーム,0
+Post Stamp,きって,0
+Postcard,はがき,0
+Envelope,ふうとう,0
+Foreign Country,がいこく,0
+Foreign Student,りゅうがくせい,0
+Class (Sport),クラス,0
+"All, Everything, Everyone",みんな,0
+Someone husband,ごしゅじん,0
+Someone wife,おくさん,0
+My husband,おっと・しゅじん,0
+my wife,つま・かない,0
+my father,ちち,0
+my mother,はは,0
+others father,おとうさん,0
+others mother,おかあさん,0
+parents,りょうしん,0
+brothers and sisters,きょうだい,0
+my elder brother,あに,0
+others elder brother,あにいさん,0
+my elder sister,あね,0
+others elder sister,おねさん,1
+my younger brother,おとうと,0
+others younger brother,おとうとさん,0
+my younger sister,いもうと,0
+others younger sister,いもうとさん,0
+"grandfather or old man or ""さん""",おじいさん・ちゃん,0
+"grandmother or old woman or ""さん""",おばあさん・ちゃん,0
+"Body, OR Health",からだ,0
+"Head, OR Brain",あたま,0
+"Hand, OR Arm",て,0
+Hair,かみ,0
+Face,かお,0
+Eye,め,0
+Ear,みみ,0
+Nose,はな,0
+Mouth,くち,0
+Tooth,は,0
+Stomach,おなか,0
+"Leg, OR Foot",あし,0
+Height (قامة),せ,0
+# people,にん,0
+# of machines/electronics,だい,0
+# of paper (thin objects),まい,0
+# of tall thin object,ほん,0
+# times,かい,0
+# hours,じかん,0
+# weeks,しゅうかん,0
+# months,かげつ,0
+# years,ねん,0
+Season,きせつ,0
+Spring,はる,0
+Summer,なつ,0
+Autumn,あき,0
+Winter,ふゆ,0
+Weather,てんき,0
+"Rain, rainy",あめ,0
+"Snow, snowy",ゆき,0
+Cloudy,くもり,0
+Hotel,ホテル,0
+Airport,くうこう,0
+"Sea, Ocean",うみ,0
+World,せかい,0
+Party,パーティー,0
+Festival,（お）まつり,0
+Sukiyaki,すきやき,0
+Sashimi,さしみ,0
+Sushi,（お）すし,0
+Tempura,てんぷら,0
+Pork,ぶたにく,0
+Chicken,とりにく,0
+Beef,ぎゅうにく,0
+Lemon,レモン,0
+Arranged flowers,いけばな,0
+Red maple leaves,もみじ,1
+Swimming pool,プール,0
+River,かわ,0
+Fine arts,びじゅつ,0
+Weekend,しゅうまつ,0
+Something,なにか,0
+Someplace,どこか,0
+Someone,だれか,0
+Fishing,つり,0
+Skiing,スキー,0
+"Electricity, OR Light",でんき,0
+Air Conditioner,エアコン,0
+Passport,パスポート,0
+Name,なまえ,0
+Address,じゅうしょ,0
+Map,ちず,0
+Salt,しお,0
+Sugar,さとう,0
+"Question, Problem, Trouble",もんだい,0
+Answer,こたえ,0
+How to … /Way of …,かた,0
+Way of reading …,よみかた,0
+Change (الباقي),おつり,0
+"Materials, OR, Data",しりょう,0
+Catalogue,カタログ,0
+Timetable,じこくひょう,0
+Clothes,ふく,0
+Products,せいひん,0
+Software,ソフト,0
+Electronic dictionary,でんし　じしょ,0
+Economy,けいざい,0
+City halls (مبني المحافظة),しゃくしょ,0
+Senior High School,こうこう,0
+Dentist,はいしゃ,0
+Single/Unmarried,どくしん,0
+Sorry,すみません,0
+Button,ボタン,0
+Service,サービス,0
+Jogging,ジョギング,0
+"Green, OR Greeny",みどり,0
+Buddah temple,おてら,0
+Shinta temple,じんじゃ,0
+no smoking,きんえん,0
+(health) insurance card,けんこう　ほけんしょう,0
+fever,ねつ,0
+"illness, diease",びょうき,0
+medicine,くすり,0
+"jacket, or (on top wears)",うわぎ,0
+under wears,したぎ,0
+2-3 …,に　さん,0
+thoart,のど,0
+"cold, flu",かぜ,0
+preparation (studies),よしゅう,0
+revision (studies),ふくしゅう,0
+piano,ピアノ,0
+… meter,メートル,0
+cash,げんきん,0
+hobby,しゅみ,0
+diary,にっき,0
+prayer,おいのり,0
+Section Head,かちょう,0
+Department Head,ぶちょう,0
+Company President,しゃちょう,0
+Animal,どうぶつ,0
+Horse,うま,0
+Camel,らくだ,0
+Zoo,どうぶつえん,0
+Intnernet,インターネット,0
+Practice,れんしゅう,0
+Golf,ゴルフ,0
+Sumo,すもう,0
+Tea ceremony,おしゃ,1
+"Day, OR date",ひ,0
+Condition,ちょうし,0
+Go straight,まっすぐ,0
+Thank you (exp. gratitude),おかげさまで,0
+Cheers,かんぱい,0
+Diet,ダイエット,0
+Word,ことば,0
+Japanese kimono,きもの,0
+This way/place (informal),こっち,0
+That way/place (informal),そっち,0
+That place there (informal),あっち,0
+Where? (informal),どっち,0
+"True, OR Truth",ほんとう,0
+Lie,うそ,0
+Car,じどうしゃ,0
+"Transportation, OR Traffic",こうつう,0
+Prices أسعار,ぶっか,0
+"Announcment, OR broadcast",ほうそう,0
+News,ニュース,0
+Anime,アニメ,0
+Japanese comic book,マンガ,0
+"Design, OR Artwork",デザイン,0
+Dream,ゆめ,0
+"Game, OR Match",しあい,0
+Opinion,いけん,0
+"Talk, OR Speech",はなし,0
+Earth,ちきゅう,0
+Moon,つき,0
+Children,こどもたち,0
+Coat,コート,0
+Sweater,セーター,0
+Suit,スーツ,0
+"Hat, OR Cap",ぼうし,0
+Glasses,めがね,0
+Cake,ケーキ,0
+Lunch box,「お」べんとう,0
+Robot,ロボット,0
+Humor,ユーモア,0
+Conveniece,つごう,0
+Bridge,はし,0
+Hot water,おゆ,0
+Sound,おと,0
+Size,サイズ,0
+Breakdown,こしょう,0
+"Road, OR Way",みち,0
+Crossroads,こうさてん,0
+Road Corner,かど,0
+Traffic Lights,しんごう,0
+"Car parking, OR Parking lot",ちゅうしゃじょう,0
+Building,たてもの,0
+Mother's day,母の日,0
+prepare يعد أغراض ,じゅんび,0
+move out ينقل سكن ,ひっこし,0
+"sweets, snacks",おかし,0
+homestay,ホームステイ,0
+besides (شيء اخر),ほかに,0
+"Countryside, Home town",いなか,0
+Chance,チャンス,0
+Hundred million,おく,0
+Meaning,いみ,1
+Hello (used on phone),もしもし,0
+Kitchen with dinning room,ダイニングキッチン,0
+Japanese style room,わしつ,0
+Japanese style closet,おしいれ,0
+Japanese style bed,ふとん,0
+Rent,やちん,0
